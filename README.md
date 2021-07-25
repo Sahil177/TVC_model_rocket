@@ -1,1 +1,1 @@
-# TVC_model_rocket
+# Thrust Vector Controlled Model Rocket
