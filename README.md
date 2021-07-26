@@ -1,4 +1,4 @@
-# Thrust Vector Controlled Model Rocket
+# TVC Model Rocket
 
 ## Summary:
 <p align="center">
