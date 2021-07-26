@@ -18,11 +18,11 @@ on SolidWorks, design and put together a flight computer, design control system,
 
 [__CAD Model__](docs/cad_model.md)
 
-[__Flight computer__](flight_computer.md)
+[__Flight computer__](docs/flight_computer.md)
 
-[__Control System__](control_system.md)
+[__Control System__](docs/control_system.md)
 
-[__3D Python Simulation__](3Dsim.md)
+[__3D Python Simulation__](docs/3Dsim.md)
 
 
 
