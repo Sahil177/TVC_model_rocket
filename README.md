@@ -1,9 +1,10 @@
 # TVC Model Rocket
 
 ## Summary:
-<p align="center">
-  <img width="300" src="docs/img/full_rocket.jpg">
+<p align="Centre">
+  <img width="300" src="docs/img/full_rocket.jpg"> <img width="300" src="docs/img/3Dsimgif.jpg"> <img width="300" src="docs/img/3Dtrajectory.jpg">
 </p>
+
 
 With a strong fascination towards autonomous rocketry, most notably SpaceX and their 
 progress with landing rockets I was keen to work on something of my own over the summer after the
