@@ -2,7 +2,7 @@
 
 ## Summary:
 <p align="center">
-  <img width="300" src="docs/img/full_rocket.jpg"> <img width="370" src="docs/img/3Dsimgif.gif">
+  <img width="300" src="docs/img/fullrocket2.jpg"> <img width="385" src="docs/img/3Dsimgif.gif">
 </p>
 
 
