@@ -1,8 +1,8 @@
 # TVC Model Rocket
 
 ## Summary:
-<p align="Centre">
-  <img width="300" src="docs/img/full_rocket.jpg"> <img width="300" src="docs/img/3Dsimgif.jpg"> <img width="300" src="docs/img/3Dtrajectory.jpg">
+<p align="center">
+  <img width="300" src="docs/img/full_rocket.jpg"> <img width="370" src="docs/img/3Dsimgif.gif">
 </p>
 
 
