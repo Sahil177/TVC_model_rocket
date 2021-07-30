@@ -4,9 +4,9 @@ I used SolidWorks to develop a full model of the Rocket in order to design the p
 obtain estimate the mass properties of the rocket for simulation and control system design purposes.
 
 <p align="center">
-  <img width="300" src="docs/img/CAD.png"> <img width="385" src="docs/img/exploded.jpg"> <img width="385" src="docs/img/CADgimbal.png">
+  <img width="230" src="img/CAD.png"> <img width="385" src="img/exploded.jpg"> <img width="300" src="img/CADgimbal.png">
 </p>
 
 <p align="center">
-  <img width="300" src="docs/img/gimbal.gif">
+  <img width="300" src="img/gimbalgif.gif">
 </p>
