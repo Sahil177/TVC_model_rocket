@@ -16,7 +16,7 @@ on SolidWorks, design and put together a flight computer, design control system,
 ## Aspects of the project
 - **CAD Design**: I designed a CAD model for the rocket on SolidWorks. I designed the nose, 2-axis gimbal and flight computer holder to 3D print for the rocket.
 - **Flight Computer**: PCB designed and assembled, and software for flight computer writted.
-- **Control System**: Simulation of system with aerodynamics developed in Simulink. Control system for TVC developed.
+- **Control System**: Simulation of system with aerodynamics developed in Matlab & Simulink. Control system for TVC developed.
 - **3D Python Simulation**: I developed a 3D animated simulation of the rocket launch
 
 
