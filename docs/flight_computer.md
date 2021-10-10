@@ -7,3 +7,10 @@ the board has been programmed to tilt the thrust in a way which mimics the motio
 <p align="center">
   <img width="300" src="img/circuit.png"> <img width="320" src="img/gimbaltest.gif"> <img width="300" src="img/partsview.jpg"> 
 </p> 
+
+
+[__CAD Model__](cad_model.md)
+
+[__Control System__](control_system.md)
+
+[__3D Python Simulation__](3Dsim.md)
